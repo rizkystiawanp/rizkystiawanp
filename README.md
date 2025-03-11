@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<hr/>
  
 ## 🚀 Skills & Tools
 
