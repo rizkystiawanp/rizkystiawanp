@@ -68,6 +68,10 @@
 
 ---
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/rizkystiawanp/output/main/github-snake-dark.svg#gh-dark-mode-only)
+
+---
+
 <div align="center">
 <table width="100%">
   <tr>
