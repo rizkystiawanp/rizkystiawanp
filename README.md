@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
+
 ---
 
 ## 🚀 Skills & Tools
@@ -43,9 +44,10 @@
   <!-- Row 3 -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn,scipy,selenium" />
 </p>
----
-<h2 align="center">📊 GitHub Insights</h2>
 
+---
+
+<h2 align="center">📊 GitHub Insights</h2>
 <div align="center">
 <table>
   <tr>
