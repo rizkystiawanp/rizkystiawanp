@@ -68,6 +68,9 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/rizkystiawanp/output/main/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Animation](https://raw.githubusercontent.com/rizkystiawanp/output/main/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
