@@ -21,6 +21,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github-light
 
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
