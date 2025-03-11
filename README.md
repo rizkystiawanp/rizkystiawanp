@@ -68,13 +68,6 @@
 
 ---
 
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/rizkystiawanp/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 <div align="center">
 <table width="100%">
   <tr>
