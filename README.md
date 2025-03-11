@@ -33,113 +33,16 @@
 
 <hr/>
  
-<h2 align="center">Skills & Tools 🧰</h2>
-<style>
-  .icon-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-  }
+## 🚀 Skills & Tools
 
-  .icon-item {
-    text-align: center;
-    transition: transform 0.3s ease-in-out;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100px;
-  }
-
-  .icon-item:hover {
-    transform: scale(1.2);
-  }
-
-  .icon-item img {
-    width: 50px;
-    height: 50px;
-  }
-
-  .icon-text {
-    margin-top: 5px;
-    font-size: 14px;
-    color: white;
-  }
-</style>
-
-<div class="icon-container">
-    <!-- Development & DevOps -->
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="ElasticSearch" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    </div>
-    <!-- Programming Languages -->
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    </div>
-    <!-- Machine Learning & AI -->
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=scikitlearn&theme=light" alt="Scikit-Learn" />
-    </div>
-    <div class="icon-item">
-        <img src="https://skillicons.dev/icons?i=opencv&theme=light" alt="OpenCV" />
-    </div>
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=light" alt="Huggingface" />
-    </div>
-    <!-- Data Science & Analytics -->
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=light" alt="Excel" />
-    </div>
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" />
-    </div>
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" alt="NumPy" />
-    </div>
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=light" alt="Matplotlib" />
-    </div>
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=light" alt="Seaborn" />
-    </div>
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=light" alt="SciPy" />
-    </div>
-    <!-- Automation & Testing -->
-    <div class="icon-item">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium&theme=light" alt="Selenium" />
-    </div>
-</div>
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,elasticsearch,postgres,bootstrap" /><br>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,tensorflow,scikitlearn,opencv,huggingface" /><br>
+  <!-- Row 3 -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn,scipy,selenium" />
+</p>
 
 <h2 align="center">📊 GitHub Insights</h2>
 
