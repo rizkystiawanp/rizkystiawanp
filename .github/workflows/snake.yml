@@ -2,23 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Jalankan setiap hari jam 00:00 UTC
-  workflow_dispatch:  # Memungkinkan menjalankan workflow secara manual
+    - cron: "0 0 * * *" # Menjalankan setiap hari pada tengah malam UTC
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: rizkystiawanp
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
