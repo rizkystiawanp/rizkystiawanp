@@ -70,7 +70,7 @@
 
 <h3 align="center">🐍 GitHub Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rizkystiawanp/rizkystiawanp/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://github.com/rizkystiawanp/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
