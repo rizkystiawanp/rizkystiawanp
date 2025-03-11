@@ -6,9 +6,9 @@
 <h2 align='center'>✨ A Little About Me </h2>
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFA500&center=true&vCenter=true&width=600&lines=Welcome+To+my+Github+Profile;I'm+Rizky+Stiawan+Pratama;DATA+SCIENTIST;DATA+ANALYST;MACHINE+LEARNING+ENTHUSIAST" />
 <h4 align="justify"> Hi, I'm <i>Rizky Stiawan Pratama.</i> A <b>Data Analyst</b>, <b>Data Scientist</b>, and <b>Machine Learning Enthusiast</b>. I enjoy working on data-driven projects, exploring new AI technologies, and optimizing business strategies with data. I spend my free time experimenting with Machine Learning models, Deep Learning, building data pipelines, and continuously learning about emerging trends in AI and data science. I'm currently deepening my knowledge in <b>Computer Vision</b>, <b>NLP</b>, and <b>Cloud ETL</b>. <i>Feel free to reach out to me via email, social media, or check out my portfolio!</i> </h4>
-
+---
 <div align="center"> 
-<h2 align='center'>📡 Find Me Online</h2>
+<h3 align='center'>📡 Find Me Online</h3>
 <p align='center'>
  
   <a href="mailto:rizkystiawanpratama@gmail.com">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
- 
+---
 ## 🚀 Skills & Tools
 
 <p align="center">
@@ -41,13 +41,13 @@
   <!-- Row 3 -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn,scipy,selenium" />
 </p>
-
+---
 <h2 align="center">📊 GitHub Insights</h2>
 
 <div align="center">
 <table>
   <tr>
-    <td width="38%">
+    <td width="50%">
       <a href="https://github.com/rizkystiawanp/github-readme-stats">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkystiawanp&layout=compact&theme=onedark&langs_count=10" />
       </a>
