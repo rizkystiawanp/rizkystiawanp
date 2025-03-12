@@ -70,8 +70,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/rizkystiawanp/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Animation](https://raw.githubusercontent.com/rizkystiawanp/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Animation](https://rizkystiawanp.github.io/rizkystiawanp/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
